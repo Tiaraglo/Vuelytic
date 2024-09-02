@@ -30,6 +30,11 @@ npm run dev
 
 - Login Page (1st Page "/login")
 
+```sh
+username : admin
+password : password
+```
+
 ![alt text](<Tangkapan Layar 2024-09-02 pukul 16.51.55.png>)
 
 - Dashboard (2nd Page "/")
